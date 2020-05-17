@@ -59,9 +59,20 @@ Example files showing expected format of all three are given in the `examples` f
 
 The alignment file can be an alignment with or without ancestral sequences
 
+### Specify out path ###
+
+By default the image is written to a file called `tree_annot.png`.
+
+Change this by using the `-o` flag
+
+```
+python tree_annot.py -t ./examples/CYP2U_165.nwk -a ./examples/CYP2U_165.aln -c ./examples/CYP2U_165.csv -o
+./examples/changed_name.png
+```
+
 ### Specify a column ###
 
-To specify a particular column to colour based on, use the `col` flag. By default, the first column (after the
+To specify a particular column to colour based on, use the `-col` flag. By default, the first column (after the
 seq_name column) is used.
 
 ```
@@ -76,8 +87,8 @@ contrasting colours). When the program runs, it will tell you the random seed us
 To reproduce this colour scheme set the random seed as 90
 ```
 
-Which you can then provide to tree_annot as an argument to use this colour scheme
+You can then provide this number to tree_annot using the `-r` flag to use this colour scheme
 
 ```
 python tree_annot.py -t ./examples/CYP2U_165.nwk -a ./examples/CYP2U_165.aln -c ./examples/CYP2U_165.csv -col "tag2" -r 90
-
+```
