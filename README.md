@@ -27,10 +27,9 @@ Currently this is just provided as a Python script. Easiest way to use it right 
 
 ```
 git clone https://github.com/gabefoley/tree_annot.git
-
 ```
 
-2. Install the required Python modules as specified in requirements.txt (we assume python>=3.5)
+2. Install the required Python modules as specified in requirements.txt (we assume Python>=3.5)
 
 ```
 pip install -r requirements.txt
@@ -39,9 +38,12 @@ pip install -r requirements.txt
 
 ## Usage ##
 
+### Basic usage ###
+
+```
 usage: tree_annot.py [-h] -t TREE -a ALIGN -c CSV [-col COL] [-r RANDOM_SEED]
                      [-o OUTPATH]
-
+```
 
 
 
@@ -57,7 +59,7 @@ Example files showing expected format of all three are given in the `examples` f
 
 The alignment file can be an alignment with or without ancestral sequences
 
-###Specify a column###
+### Specify a column###
 
 To specify a particular column to colour based on, use the `col` flag. By default, the first column (after the
 seq_name column) is used.
