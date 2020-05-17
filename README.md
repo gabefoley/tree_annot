@@ -52,14 +52,14 @@ You can call tree_annot from the command line.
 The paths to the tree, alignment, and csv file must be provided.
 
 ```
-python tree_annot.py -t ./examples/CYP2U_165.nwk -a ./examples/CYP2U_165.aln -c ./examples/CYP2U_165.csv -r 90 -col "tag2"
+python tree_annot.py -t ./examples/CYP2U_165.nwk -a ./examples/CYP2U_165.aln -c ./examples/CYP2U_165.csv
 ```
 
 Example files showing expected format of all three are given in the `examples` folder
 
 The alignment file can be an alignment with or without ancestral sequences
 
-### Specify a column###
+### Specify a column ###
 
 To specify a particular column to colour based on, use the `col` flag. By default, the first column (after the
 seq_name column) is used.
@@ -79,5 +79,5 @@ To reproduce this colour scheme set the random seed as 90
 Which you can then provide to tree_annot as an argument to use this colour scheme
 
 ```
-python tree_annot.py -t ./examples/CYP2U_165.nwk -a ./examples/CYP2U_165.aln -c ./examples/CYP2U_165.csv -r 90 -col "tag2"
+python tree_annot.py -t ./examples/CYP2U_165.nwk -a ./examples/CYP2U_165.aln -c ./examples/CYP2U_165.csv -col "tag2" -r 90
 
