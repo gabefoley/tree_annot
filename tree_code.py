@@ -2,6 +2,7 @@ from ete3 import PhyloTree, TreeStyle, TextFace, add_face_to_node, SeqMotifFace,
     AttrFace
 import pandas as pd
 import random
+import numpy as np
 
 
 def load_tree(tree_path, aln_path=None):
@@ -18,18 +19,37 @@ def layout(node):
         faces.add_face_to_node(N, node, 0, position="aligned")
 
 
-def get_example_tree(tree, color_dict=None, annot_dict=None, annot_index=None):
+def get_example_tree(tree, color_dict=None, annot_dict=None, col=None):
+
+    used_colours = set()
     for n in tree.traverse():
         if n.is_leaf():
-            n.img_style["bgcolor"] = color_dict[annot_dict[n.name][annot_index]]
+
+            if n.name in annot_dict:
+
+                n.img_style["bgcolor"] = color_dict[annot_dict[n.name]]
+
+                used_colours.add(annot_dict[n.name])
 
             ts = TreeStyle()
             ts.layout_fn = layout
             ts.show_leaf_name = False
             ts.mode = "c"
-            ts.arc_start = -180  # 0 degrees = 3 o'clock
-            ts.arc_span = 180
-            ts.root_opening_factor = 1
+            # ts.arc_start = -180  # 0 degrees = 3 o'clock
+            # ts.arc_span = 180
+            # ts.root_opening_factor = 1
+
+            # print (used_colours)
+
+            for k,v in color_dict.items():
+                # Check that the specific colour was actually present in the tree we're annotating
+                if k in used_colours:
+                    ts.legend.add_face(CircleFace(100, v), column=0)
+                    ts.legend.add_face(TextFace(k, fsize=50), column=1)
+
+            # Add title
+            ts.title.add_face(TextFace("Colouring tips on " + col, fsize=100), column=0)
+
     return tree, ts
 
 
@@ -55,12 +75,26 @@ def generate_new_color(existing_colors, pastel_factor=0.5):
     return best_color
 
 
-def get_color_dict(annot_dict, annot_index, random_val):
+def get_color_dict(annot_dict, random_val):
     random.seed(random_val)
 
     color_dict = {}
 
-    unique_vals = list(set(val[annot_index] for val in annot_dict.values()))
+    # print (annot_dict)
+
+    # for val in annot_dict.values():
+    #     print (val)
+    #     print (float(val) is np.nan)
+    #     print (np.isnan(val))
+    #     print(np.isnan(float(val)))
+
+
+
+    unique_vals = list(set(val for val in annot_dict.values()))
+
+
+    print ('uv')
+    print ('unique_vals')
 
     colors = []
     for uv in unique_vals:

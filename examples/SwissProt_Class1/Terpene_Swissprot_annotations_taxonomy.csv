@@ -1,0 +1,525 @@
+Name,Clade,lineage(SUPERKINGDOM),lineage(KINGDOM),lineage(PHYLUM),lineage(CLASS),lineage(ORDER),lineage(FAMILY),lineage(GENUS),lineage(SPECIES)
+AcTPS4,1,,,,,,,,
+AcTPS5,2,,,,,,,,
+AcTPS7,3,,,,,,,,
+AcTPS9,1,,,,,,,,
+ArmGa1,4,,,,,,,,
+BvCS,2,,,,,,,,
+Cop1,2,,,,,,,,
+Cop2,2,,,,,,,,
+Cop3,2,,,,,,,,
+Cop4,1,,,,,,,,
+Cop6,3,,,,,,,,
+tr|A0A5M3MFS2|A0A5M3MFS2_CONPW__Copu1,1,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+tr|A0A5M3MFC0|A0A5M3MFC0_CONPW__Copu2,1,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+tr|A0A5M3MYJ1|A0A5M3MYJ1_CONPW__Copu3,1,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+Copu4,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+tr|A0A5M3MX24|A0A5M3MX24_CONPW__Copu5,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+tr|A0A5M3MCC4|A0A5M3MCC4_CONPW__Copu6,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+tr|A0A5M3MWF6|A0A5M3MWF6_CONPW__Copu7,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+Copu8,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+tr|A0A5M3MXY8|A0A5M3MXY8_CONPW__Copu9,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+Copu10,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+tr|A0A5M3MW72|A0A5M3MW72_CONPW__Copu11,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+tr|A0A5M3MEQ1|A0A5M3MEQ1_CONPW__Copu12,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+tr|A0A5M3MHQ9|A0A5M3MHQ9_CONPW_Copu13,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+tr|A0A5M3MKY2|A0A5M3MKY2_CONPW_Copu14,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+tr|A0A5M3MMD6|A0A5M3MMD6_CONPW_Copu15,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+tr|A0A5M3N0E8|A0A5M3N0E8_CONPW_Copu16,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+tr|A0A5M3MCV2|A0A5M3MCV2_CONPW_Copu17,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+tr|A0A5M3MLS1|A0A5M3MLS1_CONPW_Copu18,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+Copu19,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+Copu20,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+Copu21,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+Copu22,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+Copu23,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+Copu24,5,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Boletales,Coniophoraceae,Coniophora,Coniophora puteana
+Fompi1|84944,3,,,,,,,,
+GME3634,2,,,,,,,,
+GME3638,2,,,,,,,,
+GME9210,4,,,,,,,,
+Omp1,2,,,,,,,,
+Omp3,2,,,,,,,,
+Omp4,1,,,,,,,,
+Omp5a,1,,,,,,,,
+Omp5b,1,,,,,,,,
+Omp6,4,,,,,,,,
+Omp7,4,,,,,,,,
+Omp9,3,,,,,,,,
+Omp10,3,,,,,,,,
+Stehi_128017,1,,,,,,,,
+Stehi_159379,3,,,,,,,,
+Stehi2,4,,,,,,,,
+Stehi6,4,,,,,,,,
+Stehi7,4,,,,,,,,
+tr|A0A5M3MJS8|A0A5M3MJS8_CONPW,5,,,,,,,,
+sp|A0A0H5BB17|RMNB_STRAQ__bacterial,6,,,,,,,,
+sp|B5HDJ6|SEDS_STRE2__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces pristinaespiralis
+sp|P0DPK6|SPVIS_STRVB__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces violens (Chainia violens)
+sp|O34707|YTPB_BACSU__bacterial,6,,,,,,,,
+sp|A0A0H5BN61|RMND_STRAQ__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces anulatus (Streptomyces chrysomallus)
+sp|P55348|SQHC_SINFN__bacterial,6,,,,,,,,
+sp|E3VWJ0|PNTA_STRAE__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces arenae
+sp|Q9F1V8|MIBS_STRGR__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces griseus
+sp|E8W6C7|GERS_STRFA__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces pratensis
+sp|Q5KSN4|PMDS_STREO__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces sp. (strain KO-3988)
+sp|G2P5T1|IAFRS_STRV4__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces violaceusniger
+sp|A0A291SJC7|IAFRS_STRMQ__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces malaysiensis
+sp|M1V9Q0|DTCYA_STRSQ__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces sp.
+sp|Q82IY4|PTLA_STRAW__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces avermitilis
+sp|P33247|SQHC_ALIAD__bacterial,6,,,,,,,,
+sp|P54924|SQHC_BRADU__bacterial,6,,,,,,,,
+sp|Q55012|PENA_STREX__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces exfoliatus (Streptomyces hydrogenans)
+sp|B5H7H3|PRISS_STRE2__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces pristinaespiralis
+sp|A9FZ87|EREMS_SORC5__bacterial,6,Bacteria,,Proteobacteria,Deltaproteobacteria,Myxococcales (fruiting gliding bacteria),Polyangiaceae,Sorangium,Sorangium cellulosum (Polyangium cellulosum)
+sp|Q9F1Y6|MIBS_STRCO__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces coelicolor
+sp|A4FG19|MIBS_SACEN__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Pseudonocardiales,Pseudonocardiaceae,Saccharopolyspora,Saccharopolyspora erythraea (Streptomyces erythraeus)
+sp|Q9X839|CYC2_STRCO__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces coelicolor
+sp|B5GMG2|CNSA_STRCL__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces clavuligerus
+sp|B5GRC8|LATES_STRCL__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces clavuligerus
+sp|A9AWD5|KVDS_HERA2__bacterial,6,,,,,,,,
+sp|B1W019|GCOA_STRGG__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces griseus
+sp|A3KI17|MIBS_STRA7__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces ambofaciens
+sp|D9XDR8|AAMS_STRVT__bacterial,6,,,,,,,,
+sp|D5SL78|LNSA_STRCL__bacterial,6,,,,,,,,
+sp|D3KYU2|MIBS_STRLS__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces lasaliensis
+sp|M1VDX3|DTCYB_STRSQ__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces sp.
+sp|D5SJ87|LADIS_STRCL__bacterial,6,,,,,,,,
+sp|E4MYY0|HCS_KITSK__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Kitasatospora,Kitasatospora setae
+sp|B2J4A4|GERAS_NOSP7__bacterial,6,Bacteria,,Cyanobacteria,,Nostocales,Nostocaceae,Nostoc,Nostoc punctiforme
+sp|C7PLV2|GCAS_CHIPD__bacterial,6,Bacteria,,Bacteroidetes,Chitinophagia,Chitinophagales,Chitinophagaceae,Chitinophaga,Chitinophaga pinensis
+sp|D9XD61|EAES_STRVT__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces viridochromogenes
+sp|E4N7E5|CEABS_KITSK__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Kitasatospora,Kitasatospora setae
+sp|A0A0H5BN57|CLDD_STRCP__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces cyslabdanicus
+sp|A0A0H5BB10|CLDB_STRCP__bacterial,6,,,,,,,,
+sp|Q9AJE4|CYC1_KITGR__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Kitasatospora,Kitasatospora griseola (Streptomyces griseolosporeus)
+sp|Q9K498|EIZFM_STRCO__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces coelicolor
+sp|O50406|DITCY_MYCTU__bacterial,6,,,,,,,,
+sp|D2B747|ECUB_STRRD__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptosporangiales,Streptosporangiaceae,Streptosporangium,Streptosporangium roseum
+sp|Q5KSN5|ECDPS_STREO__bacterial,6,,,,,,,,
+sp|K0K750|BCAS_SACES__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Pseudonocardiales,Pseudonocardiaceae,Saccharothrix,Saccharothrix espanaensis
+sp|P33990|SQHC_ZYMMO__bacterial,6,,,,,,,,
+sp|B5GS26|DCADS_STRCL__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces clavuligerus
+sp|C9K1X5|COTB2_STRMJ__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces melanosporofaciens
+sp|A9GK58|ECUBS_SORC5__bacterial,6,Bacteria,,Proteobacteria,Deltaproteobacteria,Myxococcales (fruiting gliding bacteria),Polyangiaceae,Sorangium,Sorangium cellulosum (Polyangium cellulosum)
+sp|Q9AJE3|CYC2_KITGR__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Kitasatospora,Kitasatospora griseola (Streptomyces griseolosporeus)
+sp|Q9K499|CYC1_STRCO__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces coelicolor
+sp|M5AW86|BCLTS_BACCS__bacterial,6,,,,,,,,
+sp|A7NH01|TMUUS_ROSCS__bacterial,6,Bacteria,,Chloroflexi,Chloroflexia,Chloroflexales,Roseiflexaceae,Roseiflexus,Roseiflexus castenholzii
+sp|B5GW45|TMUUS_STRCL__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces clavuligerus
+sp|Q82RR7|TPC1_STRAW__bacterial,6,Bacteria,,Actinobacteria,Actinobacteria (high G+C Gram-positive bacteria),Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces avermitilis
+sp|I2N045|TSUKU_STRT9__bacterial,6,,,,,,,,
+sp|Q9MB42|BAMS_GLYGL,7,,,,,,,,
+sp|P0DI76|CIN1_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|G8GJ96|CLDS9_SALSC,7,,,,,,,,
+sp|Q84SM8|3CAR1_PICAB,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Picea,Picea abies (Norway spruce) (Picea excelsa)
+sp|E7DN63|BAMS_SOLLC,7,,,,,,,,
+sp|B3TPQ6|BCUSY_MAGGA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Magnoliales,Magnoliaceae,Magnolia,Magnolia grandiflora (Southern magnolia)
+sp|Q6Z2X6|CAS_ORYSJ,7,,,,,,,,
+sp|Q1ZXA1|C521A_DICDI,7,Eukaryota,,Evosea,Eumycetozoa,Dictyosteliales,Dictyosteliaceae,Dictyostelium,Dictyostelium discoideum (Slime mold)
+sp|Q84ZW8|ACSS_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|B4FVP3|C71Z8_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|O82140|BAMS1_PANGI,7,,,,,,,,
+sp|O81192|BPPS_SALOF,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia (sages),Salvia officinalis (Sage)
+sp|Q84LF2|5EAS3_NICAT,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana attenuata (Coyote tobacco)
+sp|F1CKI6|3CAR1_PICSI,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Picea,Picea sitchensis (Sitka spruce) (Pinus sitchensis)
+sp|Q84LG0|5EAS4_NICAT,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana attenuata (Coyote tobacco)
+sp|Q948Z0|TPSD6_ABIGR,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Abies (fir trees),Abies grandis (Grand fir) (Pinus grandis)
+sp|O24475|TPSD3_ABIGR,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Abies (fir trees),Abies grandis (Grand fir) (Pinus grandis)
+sp|Q38710|TPSDV_ABIGR,7,,,,,,,,
+sp|I6RAQ6|TPS1_MATCR,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Matricaria,Matricaria chamomilla
+sp|A0A2K9RFZ7|TPS1_VITAC,7,,,,,,,,
+sp|K7WDC8|TS21I_MAIZE,7,,,,,,,,
+sp|F6M8H7|SMST_SANMU,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Santalales,Santalaceae,Santalum (sandalwoods),Santalum murrayanum (Bitter quandong)
+sp|Q50EK2|TPSD1_PINTA,7,,,,,,,,
+sp|P85964|TPSD1_PSEMZ,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Pseudotsuga,Pseudotsuga menziesii (Douglas-fir) (Abies menziesii)
+sp|O24474|TPSD2_ABIGR,7,,,,,,,,
+sp|Q5GJ60|TPS6_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|B9RI00|TPS6_RICCO,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus,Ricinus communis (Castor bean)
+sp|Q9LUE0|TPS19_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|A4FVP2|TPS03_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|I6R4V5|TPS2_MATCR,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Matricaria,Matricaria chamomilla
+sp|B9SCB6|TPS2_RICCO,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus,Ricinus communis (Castor bean)
+sp|C5YHI2|TPS2_SORBI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Sorghum,Sorghum bicolor (Sorghum) (Sorghum vulgare)
+sp|A0A3L6G998|TS23M_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|Q39980|VTSS3_HYOMU,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Hyoscyamus,Hyoscyamus muticus (Egyptian henbane)
+sp|J7LQ09|TPS7_PHYDL,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Verbenaceae,Phyla,Phyla dulcis (Aztec sweet herb) (Lippia dulcis)
+sp|Q9M7C9|TPSDB_ABIGR,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Abies (fir trees),Abies grandis (Grand fir) (Pinus grandis)
+sp|M4HYC6|TPSD2_PINCO,7,,,,,,,,
+sp|Q54BE5|TPS8_DICDI,7,Eukaryota,,Evosea,Eumycetozoa,Dictyosteliales,Dictyosteliaceae,Dictyostelium,Dictyostelium discoideum (Slime mold)
+sp|Q6XDB5|TPSD2_PICSI,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Picea,Picea sitchensis (Sitka spruce) (Pinus sitchensis)
+sp|Q6JD70|TPS5A_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|Q6JD69|TPS5B_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|B2C4D0|TS23B_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|Q8H2B4|LLOS_MENAQ,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Mentha,Mentha aquatica (Water mint)
+sp|E3W206|SPIBS_SANSP,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Santalales,Santalaceae,Santalum (sandalwoods),Santalum spicatum (Australian sandalwood)
+sp|B8XA41|SBS_SOLHA,7,,,,,,,,
+sp|E3W205|SAUBS_SANAS,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Santalales,Santalaceae,Santalum (sandalwoods),Santalum austrocaledonicum (Sandalwood)
+sp|Q9LS68|PEN7_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|F6M8H4|SAST_SANAL,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Santalales,Santalaceae,Santalum (sandalwoods),Santalum album (White sandalwood)
+sp|P0CV94|NES1_FRAAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Rosales,Rosaceae,Fragaria,Fragaria ananassa (Strawberry) (Fragaria chiloensis x Fragaria virginiana)
+sp|Q84KL6|PT1_PINTA,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Pinus,Pinus taeda (Loblolly pine)
+sp|G8GJ94|SCLS_SALSC,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia (sages),Salvia sclarea (Clary sage)
+sp|B5A434|MTPS1_SANAL,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Santalales,Santalaceae,Santalum (sandalwoods),Santalum album (White sandalwood)
+sp|B6EXY6|LUP4_ARATH,7,,,,,,,,
+sp|E2E2N7|BCGS_ORIVU,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Origanum (marjorams),Origanum vulgare (Wild marjoram)
+sp|O04408|KSA_PEA,7,,,,,,,,
+sp|Q1G1A4|LAS1_ARATH,7,,,,,,,,
+sp|B6SCF3|MTS1_HUMLU,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Rosales,Cannabaceae,Humulus,Humulus lupulus (European hop)
+sp|B6SCF4|MTS2_HUMLU,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Rosales,Cannabaceae,Humulus,Humulus lupulus (European hop)
+sp|Q9LVY2|PEN3_ARATH,7,,,,,,,,
+sp|Q50L36|ISPS_POPAL,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Salicaceae,Populus (poplars),Populus alba (White poplar)
+sp|A0A2L0VXR0|PS_CLIPA,7,,,,,,,,
+sp|A0A1L9WUI2|ANEC_ASPA1,7,Eukaryota,Fungi,Ascomycota,Eurotiomycetes,Eurotiales (green and blue molds),Aspergillaceae,Aspergillus,Aspergillus aculeatus
+sp|Q8L5K4|GTPS_CITLI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Sapindales,Rutaceae,Citrus,Citrus limon (Lemon) (Citrus medica var. limon)
+sp|C8XPS0|KSL1_SALMI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia (sages),Salvia miltiorrhiza (Chinese sage)
+sp|Q0JA81|KSL2_ORYSJ,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Oryza,Oryza sativa (Rice)
+sp|H6VLG5|KSL2_SALMI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia (sages),Salvia miltiorrhiza (Chinese sage)
+sp|Q2XPU7|LUPS_RICCO,7,,,,,,,,
+sp|J9R1J8|MTS1_SELML,7,Eukaryota,Viridiplantae,Streptophyta,Lycopodiopsida (clubmosses),Selaginellales (spike mosses),Selaginellaceae,Selaginella,Selaginella moellendorffii (Spikemoss)
+sp|Q9FJV8|PEN5_ARATH,7,,,,,,,,
+sp|Q94G53|QH6_ARTAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Artemisia,Artemisia annua (Sweet wormwood)
+sp|D8S255|MTS30_SELML,7,Eukaryota,Viridiplantae,Streptophyta,Lycopodiopsida (clubmosses),Selaginellales (spike mosses),Selaginellaceae,Selaginella,Selaginella moellendorffii (Spikemoss)
+sp|F6M8I0|MTPS2_SANAL,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Santalales,Santalaceae,Santalum (sandalwoods),Santalum album (White sandalwood)
+sp|B2DBF1|PDAC2_PHOAM,7,,,,,,,,
+sp|P84466|LSS_BOVIN,7,,,,,,,,
+sp|Q96376|LIS_CLABR,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Myrtales,Onagraceae,Clarkia,Clarkia breweri (Fairy fans) (Eucharidium breweri)
+sp|Q08IT1|DADIS_PANGI,7,,,,,,,,
+sp|A4KAG8|KSL6_ORYSJ,7,,,,,,,,
+sp|Q38802|KSA_ARATH,7,,,,,,,,
+sp|D8RLD3|MTS17_SELML,7,Eukaryota,Viridiplantae,Streptophyta,Lycopodiopsida (clubmosses),Selaginellales (spike mosses),Selaginellaceae,Selaginella,Selaginella moellendorffii (Spikemoss)
+sp|Q9LUE2|TPS18_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|Q9C8E3|TPS26_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|A0A1D6LTV0|TPS26_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|Q9LRR2|TPS17_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|Q672F7|TPS2_LOTJA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus japonicus (Lotus corniculatus var. japonicus)
+sp|A0A0M4M0T9|TPS28_TRIWF,7,,,,,,,,
+sp|Q29VN1|TPS3_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|O81086|TPSD1_ABIGR,7,,,,,,,,
+sp|Q29VN3|TPS8_MAIZE,7,,,,,,,,
+sp|B9S1N2|TPS8_RICCO,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus,Ricinus communis (Castor bean)
+sp|J9R388|TPS10_SELML,7,,,,,,,,
+sp|E3W202|SASY_SANAL,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Santalales,Santalaceae,Santalum (sandalwoods),Santalum album (White sandalwood)
+sp|A0A1B4XBG5|SDNA_SORAA,7,,,,,,,,
+sp|B5A435|STPS1_SANAL,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Santalales,Santalaceae,Santalum (sandalwoods),Santalum album (White sandalwood)
+sp|B9RPM3|TPS9_RICCO,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus,Ricinus communis (Castor bean)
+sp|A0A2K9RFZ9|TPS6_VITAC,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Vitex,Vitex agnus-castus (Chaste tree)
+sp|Q9FI27|TPS20_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|Q9LH31|TPS30_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|A0A291LSD6|TPS21_MAIZE,7,,,,,,,,
+sp|Q1XBU5|TPS5_SOLLC,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+sp|A0A2K9RFZ8|TPS3_VITAC,7,,,,,,,,
+sp|A0A1W6GW18|STPS3_SALMI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia (sages),Salvia miltiorrhiza (Chinese sage)
+sp|Q9M7D0|TPSD9_ABIGR,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Abies (fir trees),Abies grandis (Grand fir) (Pinus grandis)
+sp|A0A178U9Y5|TP20L_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|Q9M7D1|TPSD8_ABIGR,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Abies (fir trees),Abies grandis (Grand fir) (Pinus grandis)
+sp|Q675L0|TPSLS_PICAB,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Picea,Picea abies (Norway spruce) (Picea excelsa)
+sp|C1K5M3|PHS1_SOLLC,7,,,,,,,,
+sp|P0CV97|PINS_FRAAN,7,,,,,,,,
+sp|O81193|SSS_SALOF,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia (sages),Salvia officinalis (Sage)
+sp|Q49SP4|TPGD1_POGCB,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Pogostemon,Pogostemon cablin (Patchouli) (Mentha cablin)
+sp|Q947C4|TPSD1_GINBI,7,,,,,,,,
+sp|M4HY05|TPSD1_PINCO,7,,,,,,,,
+sp|Q84ND0|TPS2_ANTMA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Plantaginaceae,Antirrhinum (snapdragons),Antirrhinum majus (Garden snapdragon)
+sp|Q6WP50|BOT2_BOTFU,7,Eukaryota,Fungi,Ascomycota,Leotiomycetes,Helotiales,Sclerotiniaceae,Botrytis,Botryotinia fuckeliana (Noble rot fungus) (Botrytis cinerea)
+sp|E3W204|SPISY_SANSP,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Santalales,Santalaceae,Santalum (sandalwoods),Santalum spicatum (Australian sandalwood)
+sp|Q9ZUH4|TPSA_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|Q9SYN1|PEN6_ARATH,7,,,,,,,,
+sp|A0A1C9J6A7|RLC1_CITSI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Sapindales,Rutaceae,Citrus,Citrus sinensis (Sweet orange) (Citrus aurantium var. sinensis)
+sp|F8WQD0|SHS1_ASTTA,7,,,,,,,,
+sp|K4LMW2|STS2_THAGA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Apiales,Apiaceae,Thapsia,Thapsia garganica (Deadly carrot)
+sp|Q6Q3H3|TPSGD_VITVI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Vitales,Vitaceae,Vitis,Vitis vinifera (Grape)
+sp|J7LH11|TPS8_PHYDL,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Verbenaceae,Phyla,Phyla dulcis (Aztec sweet herb) (Lippia dulcis)
+sp|O23651|TPS01_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|Q6JD71|TPS4B_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|B6H063|PRX2_PENRW,7,Eukaryota,Fungi,Ascomycota,Eurotiomycetes,Eurotiales (green and blue molds),Aspergillaceae,Penicillium,Penicillium rubens
+sp|E3W203|SAUSY_SANAS,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Santalales,Santalaceae,Santalum (sandalwoods),Santalum austrocaledonicum (Sandalwood)
+sp|Q84KL5|PT5_PINTA,7,,,,,,,,
+sp|Q41594|TASY_TAXBR,7,,,,,,,,
+sp|Q9LRZ6|MYRS2_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|E3W207|SAUSS_SANAS,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Santalales,Santalaceae,Santalum (sandalwoods),Santalum austrocaledonicum (Sandalwood)
+sp|B9X0J1|STBOS_STERE,7,,,,,,,,
+sp|Q6BE23|OXSC_CUCPE,7,,,,,,,,
+sp|H2KWF1|PAKSY_ORYSJ,7,,,,,,,,
+sp|O23945|PINS_FRAVE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Rosales,Rosaceae,Fragaria,Fragaria vesca (Woodland strawberry) (Potentilla vesca)
+sp|P0CV95|NES2_FRAAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Rosales,Rosaceae,Fragaria,Fragaria ananassa (Strawberry) (Fragaria chiloensis x Fragaria virginiana)
+sp|K4L9M2|STS1_THAGA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Apiales,Apiaceae,Thapsia,Thapsia garganica (Deadly carrot)
+sp|Q9SLP9|CAS1_LUFAE,7,,,,,,,,
+sp|A0A1D6F9Y9|C92C6_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|Q93YV0|GES_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|Q03471|PRX2_PENRO,7,Eukaryota,Fungi,Ascomycota,Eurotiomycetes,Eurotiales (green and blue molds),Aspergillaceae,Penicillium,Penicillium roqueforti
+sp|Q84KL3|PT30_PINTA,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Pinus,Pinus taeda (Loblolly pine)
+sp|Q6Z5J6|KSL5_ORYSJ,7,,,,,,,,
+sp|Q5SBP3|LLOS_OCIBA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Ocimum (basils),Ocimum basilicum (Sweet basil)
+sp|C7E5V7|FARS_ZEAMM,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|C7E5V8|FARS_ZEAMH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|Q2XSC5|LALIN_LAVAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Lavandula (lavenders),Lavandula angustifolia (Lavender)
+sp|Q5SBP1|MYRS_OCIBA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Ocimum (basils),Ocimum basilicum (Sweet basil)
+sp|E2IUA9|LUPS_KALDA,7,,,,,,,,
+sp|A0A1S5RW73|KPS_SALDI,7,,,,,,,,
+sp|Q6ZH94|LINS_ORYSJ,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Oryza,Oryza sativa (Rice)
+sp|Q8RWT0|LUP2_ARATH,7,,,,,,,,
+sp|M4HYC8|MPIM1_PINCO,7,,,,,,,,
+sp|A0A1L5YKS7|MTSL4_MARPO,7,Eukaryota,Viridiplantae,Streptophyta,Marchantiopsida,Marchantiales,Marchantiaceae,Marchantia,Marchantia polymorpha (Liverwort) (Marchantia aquatica)
+sp|J9R393|MTS13_SELML,7,Eukaryota,Viridiplantae,Streptophyta,Lycopodiopsida (clubmosses),Selaginellales (spike mosses),Selaginellaceae,Selaginella,Selaginella moellendorffii (Spikemoss)
+sp|Q2XSC6|LALIM_LAVAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Lavandula (lavenders),Lavandula angustifolia (Lavender)
+sp|Q9FR95|PEN1_ARATH,7,,,,,,,,
+sp|Q9FI37|PEN4_ARATH,7,,,,,,,,
+sp|Q84KL4|PT10_PINTA,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Pinus,Pinus taeda (Loblolly pine)
+sp|Q9FXY7|FARS_ARTAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Artemisia,Artemisia annua (Sweet wormwood)
+sp|S0EA85|GA6_GIBF5,7,,,,,,,,
+sp|P0CV96|NES1_FRAVE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Rosales,Rosaceae,Fragaria,Fragaria vesca (Woodland strawberry) (Potentilla vesca)
+sp|A0A0U4CDK4|KSB_SALMI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia (sages),Salvia miltiorrhiza (Chinese sage)
+sp|Q0JA83|KSL3_ORYSJ,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Oryza,Oryza sativa (Rice)
+sp|A1C8C3|OPHFS_ASPCL,7,Eukaryota,Fungi,Ascomycota,Eurotiomycetes,Eurotiales (green and blue molds),Aspergillaceae,Aspergillus,Aspergillus clavatus
+sp|C7E5W0|FARS_ZEAPE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea perennis (Perennial teosinte) (Euchlaena perennis)
+sp|Q04782|ERG7_CANAL,7,Eukaryota,Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Candida,Candida albicans (Yeast)
+sp|Q9AR04|AMS1_ARTAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Artemisia,Artemisia annua (Sweet wormwood)
+sp|Q1AHB2|KSL11_ORYSI,7,,,,,,,,
+sp|Q9FZI2|LUP5_ARATH,7,,,,,,,,
+sp|Q9C5M3|LUP1_ARATH,7,,,,,,,,
+sp|M4HY08|MPIM1_PINBN,7,,,,,,,,
+sp|Q93X23|MYRS_QUEIL,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Fagales,Fagaceae,Quercus,Quercus ilex (Holly oak)
+sp|S0ENM8|GUDIS_GIBF5,7,Eukaryota,Fungi,Ascomycota,Sordariomycetes,Hypocreales,Nectriaceae,Fusarium,Gibberella fujikuroi (Bakanae and foot rot disease fungus) (Fusarium fujikuroi)
+sp|B3TPQ7|ATESY_MAGGA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Magnoliales,Magnoliaceae,Magnolia,Magnolia grandiflora (Southern magnolia)
+sp|Q5SBP5|GCS1_OCIBA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Ocimum (basils),Ocimum basilicum (Sweet basil)
+sp|P0CJ43|OCISB_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|Q6PWU2|ATESY_VITVI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Vitales,Vitaceae,Vitis,Vitis vinifera (Grape)
+sp|O82139|CAS1_PANGI,7,,,,,,,,
+sp|B8PQ84|CPS1_SALMI,7,,,,,,,,
+sp|H8ZM71|ISO_ABIBA,7,,,,,,,,
+sp|Q9SPN0|LLOS1_ARTAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Artemisia,Artemisia annua (Sweet wormwood)
+sp|M4HXW5|MISO1_PINBN,7,,,,,,,,
+sp|P0CJ42|OCISA_ARATH,7,,,,,,,,
+sp|Q7XAS7|ISPS_POPTM,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Salicaceae,Populus (poplars),Populus tremuloides (Quaking aspen)
+sp|Q0JEZ8|KSL4_ORYSJ,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Oryza,Oryza sativa (Rice)
+sp|A0A125SXN1|LCC_LYCCL,7,,,,,,,,
+sp|P48449|LSS_HUMAN,7,,,,,,,,
+sp|A0A1L7VZE7|GUDIS_FUSPR,7,Eukaryota,Fungi,Ascomycota,Sordariomycetes,Hypocreales,Nectriaceae,Fusarium,Gibberella intermedia (Bulb rot disease fungus) (Fusarium proliferatum)
+sp|M4HYP3|MISO1_PINCO,7,,,,,,,,
+sp|Q00G37|KSL7_ORYSI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Oryza,Oryza sativa (Rice)
+sp|A0A125SXN3|LCA_LYCCL,7,,,,,,,,
+sp|Q84UV0|LINS_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|D8RNZ9|MTS22_SELML,7,Eukaryota,Viridiplantae,Streptophyta,Lycopodiopsida (clubmosses),Selaginellales (spike mosses),Selaginellaceae,Selaginella,Selaginella moellendorffii (Spikemoss)
+sp|A0A060KY90|MYC1_SOLLC,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+sp|Q2QQJ5|KSL10_ORYSJ,7,,,,,,,,
+sp|Q764T8|LUPS_GLYGL,7,,,,,,,,
+sp|Q84LB2|AFS1_MALDO,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Rosales,Rosaceae,Malus,Malus domestica (Apple) (Pyrus malus)
+sp|H8ZM70|LAS_ABIBA,7,,,,,,,,
+sp|Q39548|KSB_CUCMA,7,,,,,,,,
+sp|Q66QH3|KSL4_ORYSI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Oryza,Oryza sativa (Rice)
+sp|A0A1L7U8F2|GUDIS_FUSMA,7,Eukaryota,Fungi,Ascomycota,Sordariomycetes,Hypocreales,Nectriaceae,Fusarium,Fusarium mangiferae (Mango malformation disease fungus)
+sp|P48450|LSS_RAT,7,,,,,,,,
+sp|Q9SPN1|LLOS5_ARTAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Artemisia,Artemisia annua (Sweet wormwood)
+sp|J9QS25|MTS26_SELML,7,Eukaryota,Viridiplantae,Streptophyta,Lycopodiopsida (clubmosses),Selaginellales (spike mosses),Selaginellaceae,Selaginella,Selaginella moellendorffii (Spikemoss)
+sp|A0A2U8U2L5|ASR6_SARSH,7,Eukaryota,Fungi,Ascomycota,Sordariomycetes,Hypocreales,Sarocladiaceae,Sarocladium,Sarocladium schorii (Acremonium strictum (strain IMI 501407))
+sp|Q9LRH8|BAMS_PEA,7,,,,,,,,
+sp|H8ZM73|CAS_ABIBA,7,,,,,,,,
+sp|A8NU13|COP4_COPC7,7,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Psathyrellaceae,Coprinopsis,Coprinopsis cinerea (Inky cap fungus) (Hormographiella aspergillata)
+sp|Q2XSC4|LABER_LAVAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Lavandula (lavenders),Lavandula angustifolia (Lavender)
+sp|Q6ET36|CPS1_ORYSJ,7,,,,,,,,
+sp|Q8LSC3|GASL_CICIN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Cichorium,Cichorium intybus (Chicory)
+sp|Q8W3Z2|LUPS_BETPL,7,,,,,,,,
+sp|Q8BLN5|LSS_MOUSE,7,,,,,,,,
+sp|Q40577|5EAS_TOBAC,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana tabacum (Common tobacco)
+sp|Q9SAK2|KSB_ARATH,7,,,,,,,,
+sp|Q0JA82|KS1_ORYSJ,7,,,,,,,,
+sp|A0A125SXN2|LCD_LYCCL,7,,,,,,,,
+sp|Q4KSH9|BARS_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|Q4U3F6|CS_HELAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Helianthus,Helianthus annuus (Common sunflower)
+sp|D0VMR6|DGUS1_AQUCR,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malvales,Thymelaeaceae,Aquilaria,Aquilaria crassna (Eagle wood)
+sp|Q9T0J9|GBIS1_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|Q9T0K1|GBIS2_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|Q84UU4|HUMS_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|Q6EJ97|ISPS_PUEML,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Fabales,Fabaceae,Pueraria,Pueraria montana
+sp|C7E5V9|FARS_ZEADI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea diploperennis (Diploperennial teosinte)
+sp|A2PZA5|FC1_PHOAM,7,Eukaryota,Fungi,Ascomycota,Sordariomycetes,Diaporthales,Diaporthaceae,Diaporthe,Phomopsis amygdali (Fusicoccum amygdali)
+sp|F8UL80|GAS_TANPA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Tanacetum,Tanacetum parthenium (Feverfew) (Matricaria parthenium)
+sp|Q0E088|KSL7_ORYSJ,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Oryza,Oryza sativa (Rice)
+sp|E2E2P0|GTPS_ORIVU,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Origanum (marjorams),Origanum vulgare (Wild marjoram)
+sp|Q6BDZ9|KSL8_ORYSJ,7,,,,,,,,
+sp|A4KAG7|KSL5_ORYSI,7,,,,,,,,
+sp|Q9AR86|ISPS_POPCN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Salicaceae,Populus (poplars),Populus canescens (Grey poplar) (Populus tremula x Populus alba)
+sp|A0A075FBG7|ELS_MARVU,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Marrubium (horehounds),Marrubium vulgare (White horehound)
+sp|S0DX56|EREMS_GIBF5,7,,,,,,,,
+sp|A0A1D6KUI6|KSL4_MAIZE,7,,,,,,,,
+sp|Q9UR08|ARIS_ASPTE,7,Eukaryota,Fungi,Ascomycota,Eurotiomycetes,Eurotiales (green and blue molds),Aspergillaceae,Aspergillus,Aspergillus terreus
+sp|Q5SBP2|FES_OCIBA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Ocimum (basils),Ocimum basilicum (Sweet basil)
+sp|Q948R6|IMFS_LUFAE,7,,,,,,,,
+sp|F1CKI9|3CAR3_PICSI,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Picea,Picea sitchensis (Sitka spruce) (Pinus sitchensis)
+sp|P0C565|CHRYS_TANCI,7,,,,,,,,
+sp|P0DI77|CIN2_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|O23390|BARS1_ARATH,7,,,,,,,,
+sp|C9K2Q3|BSC8_ALTBR,7,Eukaryota,Fungi,Ascomycota,Dothideomycetes,Pleosporales,Pleosporaceae,Alternaria,Alternaria brassicicola (Dark leaf spot agent)
+sp|Q8LSC2|GASS_CICIN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Cichorium,Cichorium intybus (Chicory)
+sp|Q9LLR9|ECS1_ARTAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Artemisia,Artemisia annua (Sweet wormwood)
+sp|A0A3L6G2C1|EDSM_MAIZE,7,,,,,,,,
+sp|K4B6C9|EOT1_SOLLC,7,,,,,,,,
+sp|Q94JS8|FARS_CITJU,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Sapindales,Rutaceae,Citrus,Citrus junos (Yuzu) (Citrus ichangensis x Citrus reticulata var. austera)
+sp|Q5SBP6|GDS_OCIBA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Ocimum (basils),Ocimum basilicum (Sweet basil)
+sp|A0A1D6K6U5|AN2_MAIZE,7,,,,,,,,
+sp|E7DN64|DAMS_SOLLC,7,,,,,,,,
+sp|A0A0U2D9C5|CPS4_SALMI,7,,,,,,,,
+sp|P93665|DCS1_GOSHI,7,,,,,,,,
+sp|G3CCC0|CLDS_TOBAC,7,,,,,,,,
+sp|Q9LRH7|ABAMS_PEA,7,,,,,,,,
+sp|Q0JF02|CPS4_ORYSJ,7,,,,,,,,
+sp|D2YZP9|BISS_ZINOF,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Zingiberales,Zingiberaceae,Zingiber,Zingiber officinale (Ginger) (Amomum zingiber)
+sp|P59287|CASS_RICCO,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus,Ricinus communis (Castor bean)
+sp|Q8SA63|CARS_ARTAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Artemisia,Artemisia annua (Sweet wormwood)
+sp|Q8GUE4|GERS_CINTE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Laurales,Lauraceae,Cinnamomum,Cinnamomum tenuipile (Alseodaphne mollis)
+sp|Q84LF0|5EAS2_NICAT,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana attenuata (Coyote tobacco)
+sp|Q6USK1|GERS_OCIBA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Ocimum (basils),Ocimum basilicum (Sweet basil)
+sp|A0A1D6EFT8|EDSB_MAIZE,7,,,,,,,,
+sp|Q41771|AN1_MAIZE,7,,,,,,,,
+sp|O82146|BAMS2_PANGI,7,,,,,,,,
+sp|A0A075F9Z3|CPS2_MARVU,7,,,,,,,,
+sp|O49853|DCS4_GOSAR,7,,,,,,,,
+sp|B0FGA9|GAS2_HELAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Helianthus,Helianthus annuus (Common sunflower)
+sp|Q4U3F7|GAS1_HELAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Helianthus,Helianthus annuus (Common sunflower)
+sp|D0VMR5|DGUSI_AQUCR,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malvales,Thymelaeaceae,Aquilaria,Aquilaria crassna (Eagle wood)
+sp|B2KSJ5|GCSY1_CUCME,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Cucumis,Cucumis melo (Muskmelon)
+sp|Q2NM15|FARS_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|E2IUA8|FRIES_KALDA,7,,,,,,,,
+sp|Q10231|ERG7_SCHPO,7,Eukaryota,Fungi,Ascomycota,Schizosaccharomycetes,Schizosaccharomycetales,Schizosaccharomycetaceae,Schizosaccharomyces,Schizosaccharomyces pombe (Fission yeast)
+sp|Q96WJ0|ERG7_PNECA,7,Eukaryota,Fungi,Ascomycota,Pneumocystidomycetes,Pneumocystidales,Pneumocystidaceae,Pneumocystis,Pneumocystis carinii
+sp|F8UL81|CARS_TANPA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Tanacetum,Tanacetum parthenium (Feverfew) (Matricaria parthenium)
+sp|Q5MQ85|CPS2_ORYSI,7,,,,,,,,
+sp|E2IUB0|CASS_KALDA,7,,,,,,,,
+sp|Q6JD73|TPS4A_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|G5CV46|TPS31_SOLLC,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+sp|B9RHX7|TPS4_RICCO,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus,Ricinus communis (Castor bean)
+sp|J7LJN5|TPS6_PHYDL,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Verbenaceae,Phyla,Phyla dulcis (Aztec sweet herb) (Lippia dulcis)
+sp|O65434|TPS07_ARATH,7,,,,,,,,
+sp|Q9LVP7|TPS16_ARATH,7,,,,,,,,
+sp|Q9C748|TPS28_ARATH,7,,,,,,,,
+sp|Q9LQ27|TPS22_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|Q9C6W6|TPS29_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|A0A1W6GW32|STPS1_SALMI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia (sages),Salvia miltiorrhiza (Chinese sage)
+sp|Q0VHD6|TSGD1_ZINOF,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Zingiberales,Zingiberaceae,Zingiber,Zingiber officinale (Ginger) (Amomum zingiber)
+sp|Q5SBP7|SELS_OCIBA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Ocimum (basils),Ocimum basilicum (Sweet basil)
+sp|B1B1U3|ZSS1_ZINZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Zingiberales,Zingiberaceae,Zingiber,Zingiber zerumbet (Shampoo ginger) (Amomum zerumbet)
+sp|U3KYL2|DS_VALOF,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,Valeriana,Valeriana officinalis (Valerian) (Garden heliotrope)
+sp|A0A075FBT3|EKS_MARVU,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Marrubium (horehounds),Marrubium vulgare (White horehound)
+sp|O65323|5EAS_CAPAN,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Capsicum (peppers),Capsicum annuum (Capsicum pepper)
+sp|Q43714|DCS3_GOSAR,7,,,,,,,,
+sp|P38604|ERG7_YEAST,7,,,,,,,,
+sp|Q6E7D7|CPS4_ORYSI,7,,,,,,,,
+sp|W0FFD7|DS_PERHD,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Caryophyllales,Polygonaceae,Persicaria,Persicaria hydropiper (Marshpepper knotweed) (Polygonum hydropiper)
+sp|Q2R712|ACBSY_ORYSJ,7,,,,,,,,
+sp|Q84LF1|5EAS1_NICAT,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana attenuata (Coyote tobacco)
+sp|Q8W3Z1|BAMS_BETPL,7,,,,,,,,
+sp|C7ASI9|3CAR1_PICGL,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Picea,Picea glauca (White spruce) (Pinus glauca)
+sp|Q39760|DCS2_GOSAR,7,,,,,,,,
+sp|A0A075FA51|CPS3_MARVU,7,,,,,,,,
+sp|Q9UVY5|CPSKS_GIBFU,7,,,,,,,,
+sp|A0A4P8GFV8|EUPE_PHOSX,7,Eukaryota,Fungi,Ascomycota,Dothideomycetes,Pleosporales,Didymellaceae,Phoma,Phoma sp.
+sp|A0A1D6GQ67|C71Z6_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|A0A075FAK4|CPS1_MARVU,7,,,,,,,,
+sp|A8NE23|COP3_COPC7,7,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Psathyrellaceae,Coprinopsis,Coprinopsis cinerea (Inky cap fungus) (Hormographiella aspergillata)
+sp|D0VMR8|DGUS3_AQUCR,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malvales,Thymelaeaceae,Aquilaria,Aquilaria crassna (Eagle wood)
+sp|D0VMR7|DGUS2_AQUCR,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malvales,Thymelaeaceae,Aquilaria,Aquilaria crassna (Eagle wood)
+sp|O13284|CPSKS_PHASA,7,Eukaryota,Fungi,Ascomycota,Dothideomycetes,Pleosporales,Phaeosphaeriaceae,Phaeosphaeria,Phaeosphaeria sp. (strain L487)
+sp|Q39761|DCS1_GOSAR,7,,,,,,,,
+sp|Q6BE24|CUCS_CUCPE,7,,,,,,,,
+sp|Q2XPU6|CAS1_RICCO,7,,,,,,,,
+sp|P38605|CAS1_ARATH,7,,,,,,,,
+sp|Q5SBP4|AZIS_OCIBA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Ocimum (basils),Ocimum basilicum (Sweet basil)
+sp|Q6Z5I0|CPS2_ORYSJ,7,,,,,,,,
+sp|F1CKI8|3CAR2_PICSI,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Picea,Picea sitchensis (Sitka spruce) (Pinus sitchensis)
+sp|A0A084R1K7|ATR13_STAC4,7,Eukaryota,Fungi,Ascomycota,Sordariomycetes,Hypocreales,Stachybotryaceae,Stachybotrys,Stachybotrys chlorohalonata
+sp|Q96WT2|ACS_PLEBE,7,Eukaryota,Fungi,Ascomycota,Dothideomycetes,Pleosporales,Didymellaceae,Phoma,Pleospora betae (Beet black rot fungus) (Phoma betae)
+sp|B2KSJ6|AFSY1_CUCME,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Cucurbitales,Cucurbitaceae,Cucumis,Cucumis melo (Muskmelon)
+sp|Q6BE25|CAS1_CUCPE,7,,,,,,,,
+sp|A0A0U3LQ20|CPS5_SALMI,7,,,,,,,,
+sp|E2IHE0|CLDS_CISCR,7,,,,,,,,
+sp|G8GJ95|CLDS3_SALSC,7,,,,,,,,
+sp|G3CCC1|CABS_TOBAC,7,,,,,,,,
+sp|Q9SXV6|CAS1_GLYGL,7,,,,,,,,
+sp|Q8W3Z4|CAS1_BETPL,7,,,,,,,,
+sp|A0A1D6HSP4|C92C5_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|Q8W3Z3|CAS2_BETPL,7,,,,,,,,
+sp|Q55D85|CAS1_DICDI,7,,,,,,,,
+sp|M4HXU6|TPSD1_PINBN,7,,,,,,,,
+sp|O48935|TPSBF_MENPI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Mentha,Mentha piperita (Peppermint) (Mentha aquatica x Mentha spicata)
+sp|M4I1C6|NUDT1_ROSHC,7,,,,,,,,
+sp|B2DBF0|PADC1_PHOAM,7,,,,,,,,
+sp|P0DL13|PRO1_ARMGA,7,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Physalacriaceae,Armillaria,Armillaria gallica (Bulbous honey fungus) (Armillaria bulbosa)
+sp|E3W208|SPISS_SANSP,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Santalales,Santalaceae,Santalum (sandalwoods),Santalum spicatum (Australian sandalwood)
+sp|F1CKJ1|SSS_PICSI,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Picea,Picea sitchensis (Sitka spruce) (Pinus sitchensis)
+sp|Q8L5K3|RLC1_CITLI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Sapindales,Rutaceae,Citrus,Citrus limon (Lemon) (Citrus medica var. limon)
+sp|F6M8H5|SAUST_SANAS,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Santalales,Santalaceae,Santalum (sandalwoods),Santalum austrocaledonicum (Sandalwood)
+sp|Q675L5|TPSD2_PICAB,7,,,,,,,,
+sp|B1B1U4|TPSBE_ZINZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Zingiberales,Zingiberaceae,Zingiber,Zingiber zerumbet (Shampoo ginger) (Amomum zerumbet)
+sp|O22184|TPS05_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|Q49SP6|TPGD2_POGCB,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Pogostemon,Pogostemon cablin (Patchouli) (Mentha cablin)
+sp|A0A1C7AAN2|TPS10_TRIWF,7,,,,,,,,
+sp|O81191|SCS_SALOF,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia (sages),Salvia officinalis (Sage)
+sp|B6SCF5|STS1_HUMLU,7,,,,,,,,
+sp|O64961|TPSGC_SOLLC,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+sp|Q49SP3|TPSPS_POGCB,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Pogostemon,Pogostemon cablin (Patchouli) (Mentha cablin)
+sp|Q49SP7|TPSCS_POGCB,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Pogostemon,Pogostemon cablin (Patchouli) (Mentha cablin)
+sp|A0A284RNH4|PRO1_ARMOS,7,Eukaryota,Fungi,Basidiomycota,Agaricomycetes,Agaricales,Physalacriaceae,Armillaria,Armillaria ostoyae (Armillaria root rot fungus)
+sp|E2IUA6|TARS_KALDA,7,,,,,,,,
+sp|F6M8H8|SMSY_SANMU,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Santalales,Santalaceae,Santalum (sandalwoods),Santalum murrayanum (Bitter quandong)
+sp|Q6Q3H2|TPSVS_VITVI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Vitales,Vitaceae,Vitis,Vitis vinifera (Grape)
+sp|B9T825|TPS12_RICCO,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus,Ricinus communis (Castor bean)
+sp|B9RXW4|TPS13_RICCO,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus,Ricinus communis (Castor bean)
+sp|Q9FQ27|TPSGB_SOLHA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum habrochaites (Wild tomato) (Lycopersicon hirsutum)
+sp|G5CV45|TPS32_SOLLC,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+sp|Q5UB07|TPS4_MEDTR,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Fabales,Fabaceae,Medicago (medics),Medicago truncatula (Barrel medic) (Medicago tribuloides)
+sp|I6QPS5|TPS5_MATCR,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Matricaria,Matricaria chamomilla
+sp|G9MAN7|TPS4_SELML,7,,,,,,,,
+sp|Q39978|VTSS1_HYOMU,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Hyoscyamus,Hyoscyamus muticus (Egyptian henbane)
+sp|Q84NC8|TPS1_ANTMA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Plantaginaceae,Antirrhinum (snapdragons),Antirrhinum majus (Garden snapdragon)
+sp|A7IZZ2|TPS2_CANSA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Rosales,Cannabaceae,Cannabis,Cannabis sativa (Hemp) (Marijuana)
+sp|Q84NC9|TPS3_ANTMA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Plantaginaceae,Antirrhinum (snapdragons),Antirrhinum majus (Garden snapdragon)
+sp|A0A2K9RFZ2|TPS2_VITAC,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Vitex,Vitex agnus-castus (Chaste tree)
+sp|Q4QSN4|TPSBS_PSEMZ,7,,,,,,,,
+sp|B6SCF6|STS2_HUMLU,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Rosales,Cannabaceae,Humulus,Humulus lupulus (European hop)
+sp|Q49SP5|TPGAS_POGCB,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Pogostemon,Pogostemon cablin (Patchouli) (Mentha cablin)
+sp|Q5SBP0|TPSD_OCIBA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Ocimum (basils),Ocimum basilicum (Sweet basil)
+sp|J9RLZ7|TPS1_VALOF,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,Valeriana,Valeriana officinalis (Valerian) (Garden heliotrope)
+sp|G1JUH1|TPS3_SOLLC,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+sp|Q6JD72|TPS5C_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|A0A3Q7GFB5|WK72A_SOLLC,7,,,,,,,,
+sp|Q675L4|TPSD1_PICAB,7,,,,,,,,
+sp|Q1EG72|TPS11_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|Q9LIA1|TPS25_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|O64405|TPSD5_ABIGR,7,,,,,,,,
+sp|Q5GJ59|TPS7_MAIZE,7,,,,,,,,
+sp|I6RE61|TPS4_MATCR,7,,,,,,,,
+sp|A0A2K9RG07|TPS5_VITAC,7,,,,,,,,
+sp|Q93YA3|TASY_TAXBA,7,,,,,,,,
+sp|Q9FT37|TASY_TAXWC,7,,,,,,,,
+sp|O22340|TPSDA_ABIGR,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Abies (fir trees),Abies grandis (Grand fir) (Pinus grandis)
+sp|B9T536|TPS10_RICCO,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus,Ricinus communis (Castor bean)
+sp|Q84UU9|TPS06_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|B9RHP7|TPS11_RICCO,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus,Ricinus communis (Castor bean)
+sp|A0A1W6GW06|STPS2_SALMI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia (sages),Salvia miltiorrhiza (Chinese sage)
+sp|Q9LS76|TPS15_ARATH,7,,,,,,,,
+sp|O65435|TPS08_ARATH,7,,,,,,,,
+sp|J7LP58|TPS1_PHYDL,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Verbenaceae,Phyla,Phyla dulcis (Aztec sweet herb) (Lippia dulcis)
+sp|F6M8H6|SPIST_SANSP,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Santalales,Santalaceae,Santalum (sandalwoods),Santalum spicatum (Australian sandalwood)
+sp|Q9XJ32|VTSS1_SOLTU,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum tuberosum (Potato)
+sp|Q39979|VTSS2_HYOMU,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Solanales,Solanaceae,Hyoscyamus,Hyoscyamus muticus (Egyptian henbane)
+sp|B9RXW0|TPS7_RICCO,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus,Ricinus communis (Castor bean)
+sp|Q5W283|TPSCM_MENPI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Mentha,Mentha piperita (Peppermint) (Mentha aquatica x Mentha spicata)
+sp|G1DGI7|TPS7_SELML,7,,,,,,,,
+sp|B9S9Z3|TPS1_RICCO,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus,Ricinus communis (Castor bean)
+sp|C5YHH7|TPS1_SORBI,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Sorghum,Sorghum bicolor (Sorghum) (Sorghum vulgare)
+sp|J9R5V4|TPS2_VALOF,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Dipsacales,Caprifoliaceae,Valeriana,Valeriana officinalis (Valerian) (Garden heliotrope)
+sp|J9QS23|TPS9_SELML,7,,,,,,,,
+sp|Q8L7G4|TPS09_ARATH,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis,Arabidopsis thaliana (Mouse-ear cress)
+sp|A0A1L6Z3A0|TPS8_PSEAD,7,,,,,,,,
+sp|O64404|TPSD4_ABIGR,7,Eukaryota,Viridiplantae,Streptophyta,Pinopsida,Pinales,Pinaceae,Abies (fir trees),Abies grandis (Grand fir) (Pinus grandis)
+sp|A0A0M5L832|TPS14_TRIWF,7,,,,,,,,
+sp|A7IZZ1|TPS1_CANSA,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Rosales,Cannabaceae,Cannabis,Cannabis sativa (Hemp) (Marijuana)
+sp|Q29VN2|TPS2_MAIZE,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Poales,Poaceae,Zea,Zea mays (Maize)
+sp|A0A2K9RFY0|TPS4_VITAC,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Vitex,Vitex agnus-castus (Chaste tree)
+sp|I6QSN0|TPS3_MATCR,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Asterales,Asteraceae,Matricaria,Matricaria chamomilla
+sp|J7LMP2|TPS5_PHYDL,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Verbenaceae,Phyla,Phyla dulcis (Aztec sweet herb) (Lippia dulcis)
+sp|A0A1L6Z3A5|TPS5_PSEAD,7,,,,,,,,
+sp|B9SBV6|TPS3_RICCO,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Malpighiales,Euphorbiaceae,Ricinus,Ricinus communis (Castor bean)
+sp|B9SBU9|TPS5_RICCO,7,,,,,,,,
+sp|K4IAL8|TPS3_SALSC,7,Eukaryota,Viridiplantae,Streptophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia (sages),Salvia sclarea (Clary sage)
