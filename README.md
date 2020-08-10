@@ -13,11 +13,10 @@ User provides -
 
 2. An alignment file
 
-3. A csv file where the first column is a list of sequence names and the next columns can be any categorical
+3. A csv file where the first column is a list of sequence names called Name and the next columns can be any categorical
 information
 
-The user then selects which column they wish to colour on (default is the first column) and a filename to write the
-image to.
+The user then selects which column they wish to colour on and a filename to write the image to.
 
 ## Installation ##
 
@@ -41,7 +40,7 @@ pip install -r requirements.txt
 ### Basic usage ###
 
 ```
-usage: tree_annot.py [-h] -t TREE -a ALIGN -c CSV [-col COL] [-r RANDOM_SEED]
+usage: tree_annot.py [-h] -t TREE -a ALIGN -c CSV -col COL [-r RANDOM_SEED]
                      [-o OUTPATH]
 ```
 
@@ -49,10 +48,10 @@ usage: tree_annot.py [-h] -t TREE -a ALIGN -c CSV [-col COL] [-r RANDOM_SEED]
 
 You can call tree_annot from the command line.
 
-The paths to the tree, alignment, and csv file must be provided.
+The paths to the tree, alignment, csv file, and the column to annotate based on must be provided.
 
 ```
-python tree_annot.py -t ./examples/CYP2U_165.nwk -a ./examples/CYP2U_165.aln -c ./examples/CYP2U_165.csv
+python tree_annot.py -t ./examples/CYP2U_165.nwk -a ./examples/CYP2U_165.aln -c ./examples/CYP2U_165.csv -col tag1
 ```
 
 Example files showing expected format of all three are given in the `examples` folder
@@ -66,17 +65,8 @@ By default the image is written to a file called `tree_annot.png`.
 Change this by using the `-o` flag
 
 ```
-python tree_annot.py -t ./examples/CYP2U_165.nwk -a ./examples/CYP2U_165.aln -c ./examples/CYP2U_165.csv -o
+python tree_annot.py -t ./examples/CYP2U_165.nwk -a ./examples/CYP2U_165.aln -c ./examples/CYP2U_165.csv -col tag1 -o
 ./examples/changed_name.png
-```
-
-### Specify a column ###
-
-To specify a particular column to colour based on, use the `-col` flag. By default, the first column (after the
-seq_name column) is used.
-
-```
-python tree_annot.py -t ./examples/CYP2U_165.nwk -a ./examples/CYP2U_165.aln -c ./examples/CYP2U_165.csv -col "tag2"
 ```
 
 ### Specifying the colour scheme ###

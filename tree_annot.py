@@ -11,7 +11,7 @@ def parse_args(args):
     parser.add_argument("-t", "--tree", help="Path to tree", required=True)
     parser.add_argument("-a", "--align", help="Path to alignment", required=True)
     parser.add_argument("-c", "--csv", help="Path to csv", required=True)
-    parser.add_argument("-col", "--col", help="Column to annotate based on")
+    parser.add_argument("-col", "--col", help="Column to annotate based on", required=True)
     parser.add_argument("-r", "--random_seed", help="Set the random seed to an integer to make colour selection "
                                                     "reproducible")
 
@@ -29,7 +29,7 @@ if __name__ == "__main__":
     # Parse the arguments
     parser = parse_args(sys.argv[1:])
 
-    df = pd.read_csv(parser.csv, index_col=0)
+    df = pd.read_csv(parser.csv)
 
 
     annot_dict = dict(zip(df[parser.match_from], df[parser.col]))
