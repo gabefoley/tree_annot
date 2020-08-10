@@ -65,8 +65,8 @@ By default the image is written to a file called `tree_annot.png`.
 Change this by using the `-o` flag
 
 ```
-python tree_annot.py -t ./examples/CYP2U_165.nwk -a ./examples/CYP2U_165.aln -c ./examples/CYP2U_165.csv -col tag1 -o
-./examples/changed_name.png
+python tree_annot.py -t ./examples/CYP2U_165.nwk -a ./examples/CYP2U_165.aln 
+-c ./examples/CYP2U_165.csv -col tag1 -o ./examples/changed_name.png
 ```
 
 ### Specifying the colour scheme ###
@@ -80,5 +80,6 @@ To reproduce this colour scheme set the random seed as 90
 You can then provide this number to tree_annot using the `-r` flag to use this colour scheme
 
 ```
-python tree_annot.py -t ./examples/CYP2U_165.nwk -a ./examples/CYP2U_165.aln -c ./examples/CYP2U_165.csv -col "tag2" -r 90
+python tree_annot.py -t ./examples/CYP2U_165.nwk -a ./examples/CYP2U_165.aln 
+-c ./examples/CYP2U_165.csv -col "tag2" -r 90
 ```
