@@ -54,7 +54,9 @@ if __name__ == "__main__":
 
     color_dict = tc.get_color_dict(annot_dict, random_seed)
 
-    # print (color_dict)
+    print (color_dict)
+
+    color_dict[None] = "white"
 
     # Load tree
     tree = tc.load_tree(parser.tree, parser.align)
